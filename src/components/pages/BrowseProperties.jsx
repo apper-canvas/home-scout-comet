@@ -237,7 +237,7 @@ const BrowseProperties = () => {
                 Properties for Sale
               </h1>
               <div className="text-sm text-gray-600">
-                {filteredProperties.length} properties found
+                {filteredProperties.length} properties found.....
               </div>
             </div>
           </div>
